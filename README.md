@@ -4,6 +4,12 @@ Uma API REST desenvolvida em Python utilizando FastAPI para gerenciamento de alu
 
 Este projeto faz parte dos meus estudos em desenvolvimento backend, com foco em construção de APIs, organização de código e boas práticas.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+![Tipo](https://img.shields.io/badge/Tipo-API%20REST-orange)
+![Nível](https://img.shields.io/badge/Nível-Estudo-blueviolet)
+
 ---
 
 ## 📌 Objetivo
