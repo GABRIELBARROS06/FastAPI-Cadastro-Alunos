@@ -59,7 +59,10 @@ api-alunos/
 - `POST /alunos/` → Cria um novo aluno  
 - `GET /alunos/{id}` → Busca aluno por ID  
 - `PUT /alunos/{id}` → Atualiza aluno  
-- `DELETE /alunos/{id}` → Remove aluno  
+- `DELETE /alunos/{id}` → Remove aluno
+
+<img width="1475" height="480" alt="image" src="https://github.com/user-attachments/assets/88786912-af9d-4a51-ae6c-331662f4b1ea" />
+
 
 ---
 
