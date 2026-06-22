@@ -1,8 +1,6 @@
 # 🚀 API de Alunos - FastAPI
 
-Uma API REST desenvolvida em Python utilizando FastAPI para gerenciamento de alunos.
-
-Este projeto faz parte dos meus estudos em desenvolvimento backend, com foco em construção de APIs, organização de código e boas práticas.
+API REST desenvolvida para praticar conceitos de arquitetura backend, contendo 5 operações CRUD, validação de dados com Pydantic e documentação automática via Swagger.
 
 ![Python](https://img.shields.io/badge/Python-3.14.3-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-green)
